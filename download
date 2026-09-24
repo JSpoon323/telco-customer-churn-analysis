@@ -1,9 +1,0 @@
-# OS / editor cruft
-.DS_Store
-Thumbs.db
-*~
-.idea/
-.vscode/
-
-# Office temp lock files
-~$*
